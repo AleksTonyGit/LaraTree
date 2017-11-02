@@ -23,7 +23,7 @@ git clone https://github.com/AleksTonyGit/LaraTree.git
 
 5)Edit `.env` file with appropriate credential for your database server.
 
-6)Create a database named `laragatree`
+6)Create a database named `laratree`
 
 
 7)php artisan migrate
